@@ -1,6 +1,8 @@
 # PONDER
-Water Quality Monitor - University of Surrey EEE3035 - Engineering Professional Studies - Group J Project - 2020/21
 
-The files in this repository support the development of a water quality data logger, known as PONDER. It can measure temperature, TDS, Turbidity, and pH, and report data via bluetooth or GSM/GPRS.
+This group project was completed in 2021 as part of the EEE3035 Engineering Professional Studies module at the Department of Electrical and Electronic Engineering, University of Surrey.
 
-This project is being developed by a team of eight students from the University of Surrey, as part of the Engineering Professional Studies EEE3035 module.
+PONDER is a remote water quality monitor built to support the UK's Clean Growth Grand Challenge. It is capable of autonomously measuring water quality indicators (temperature, TDS, turbidity, pH) and wirelessly reporting data via bluetooth or GSM/GPRS to a mobile Android application. 
+
+The eight group members were: V. Berdnikov-Levitsky, J. Ehuriah, K. Harrison, R. Rafky, P. Sodani, P. Soni,
+M. Taylor, L. Williams
